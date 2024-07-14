@@ -1,6 +1,8 @@
 <p align="center">
   <a href="usertour.io" target="_blank" align="center" alt="Go to Usertour website">
-   Usertour
+   <picture>
+      <img width="200" src="https://github.com/usertour/.github/blob/main/profile/logo.svg" alt="Usertour logo">
+    </picture>
   </a>
 </p>
 
@@ -21,7 +23,7 @@ Built on top of the Usertour Platform, Usertour Cloud offers a fully managed, sc
 - **Free tier**: Start for free with 5000 monthly active users; 
 - **Scalability**: Scale to millions of users without worrying about performance.
 - **Security**: Secure by default with the industry best practices.
-- **Zero maintenance**: The Logto team takes care of the infrastructure.
+- **Zero maintenance**: The Usertour team takes care of the infrastructure.
 - **No vendor lock-in**: You can always switch back to the OSS version.
 
 
