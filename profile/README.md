@@ -18,7 +18,7 @@ Usertour is the better user onboarding platform allows you to build customized i
 
 **[Usertour Cloud](https://www.usertour.io) is the official managed service of Usertour.**
 
-Built on top of the Usertour Platform, Usertour Cloud offers a fully managed, scalable, and secure cloud service for your authentication and authorization needs. It offers:
+Built on top of the Usertour Platform, Usertour Cloud offers a fully managed, scalable, and secure cloud service for your customized in-app tours, checklists and surveys. It offers:
 
 - **Free tier**: Start for free with 5000 monthly active users; 
 - **Scalability**: Scale to millions of users without worrying about performance.
