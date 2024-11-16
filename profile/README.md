@@ -16,14 +16,13 @@ Usertour is the better user onboarding platform allows you to build customized i
 
 ## Usertour Cloud
 
-**[Usertour Cloud](https://www.usertour.io) is the official managed service of Usertour.**
+**[Usertour](https://www.usertour.io) is a free (up to 250 Monthly Active Users), startup-friendly platform for creating product tours without code.**
+Usertour is a product adoption platform that stands out by offering a free plan specifically tailored for startups. This makes it an attractive choice for small teams looking to enhance user engagement and retention without stretching their budget. Usertour combines essential onboarding features with ease of use, enabling startups to guide users through their product journey effectively while keeping costs manageable.
 
-Built on top of the Usertour Platform, Usertour Cloud offers a fully managed, scalable, and secure cloud service for your customized in-app tours, checklists and surveys. It offers:
-
-- **Free tier**: Start for free with 5000 monthly active users; 
-- **Scalability**: Scale to millions of users without worrying about performance.
-- **Security**: Secure by default with the industry best practices.
-- **Zero maintenance**: The Usertour team takes care of the infrastructure.
-- **No vendor lock-in**: You can always switch back to the OSS version.
+- **Personalization**: Usertour allows you to group users by company and events, enabling you to create tailored onboarding experiences. With branch flows, you can design personalized journeys that adapt to each user’s needs and behaviors.
+- **Theme Customization**: Usertour offers robust theme capabilities, allowing you to customize the look and feel of your onboarding flows to align with your brand identity.
+- **Segmentation**: Using custom user attributes, you can tailor users' onboarding experience to their needs and roles..
+- **Awesome analytics and insights**: Analyze your flows' performance with views and completion rates.
+- **Multi-environment**: Run multiple environments (e.g. Production and Staging) under the same account.
 
 
