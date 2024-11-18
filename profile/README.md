@@ -10,14 +10,13 @@
 
 This is the official organization of Usertour.
 
-Usertour is the better user onboarding platform allows you to build customized in-app tours, checklists and surveys, without code.
+Usertour — a no-code platform designed for startups, offering a free plan for up to 250 Monthly Active Users to effortlessly create product tours.
 
 - If you are new to Usertour, visit our 🎨 [website](https://usertour.io) for a brief introduction.
 
 ## Usertour Cloud
 
-**[Usertour](https://www.usertour.io)** is a product adoption platform that stands out by offering a free plan specifically tailored for startups. This makes it an attractive choice for small teams looking to enhance user engagement and retention without stretching their budget. 
-Usertour combines essential onboarding features with ease of use, enabling startups to guide users through their product journey effectively while keeping costs manageable.
+**[Usertour](https://www.usertour.io)** is a no-code platform designed for startups, offering a free plan for up to 250 Monthly Active Users to effortlessly create product tours.
 
 - **Personalization**: Usertour allows you to group users by company and events, enabling you to create tailored onboarding experiences. With branch flows, you can design personalized journeys that adapt to each user’s needs and behaviors.
 - **Theme Customization**: Usertour offers robust theme capabilities, allowing you to customize the look and feel of your onboarding flows to align with your brand identity.
