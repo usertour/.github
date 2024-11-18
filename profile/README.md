@@ -10,12 +10,6 @@
 
 This is the official organization of Usertour.
 
-Usertour — a no-code platform designed for startups, offering a free plan for up to 250 Monthly Active Users to effortlessly create product tours.
-
-- If you are new to Usertour, visit our 🎨 [website](https://usertour.io) for a brief introduction.
-
-## Usertour Cloud
-
 **[Usertour](https://www.usertour.io)** is a no-code platform designed for startups, offering a free plan for up to 250 Monthly Active Users to effortlessly create product tours.
 
 - **Personalization**: Usertour allows you to group users by company and events, enabling you to create tailored onboarding experiences. With branch flows, you can design personalized journeys that adapt to each user’s needs and behaviors.
@@ -25,3 +19,5 @@ Usertour — a no-code platform designed for startups, offering a free plan for 
 - **Multi-environment**: Run multiple environments (e.g. Production and Staging) under the same account.
 
 
+
+- If you are new to Usertour, visit our 🎨 [website](https://usertour.io) for a brief introduction.
