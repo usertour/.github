@@ -10,7 +10,7 @@
 
 This is the official organization of Usertour.
 
-**[Usertour](https://www.usertour.io)** is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and launchers in minutes—effortlessly and with full control.
+**[Usertour](https://www.usertour.io)** is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.
 
 ### Easy Onboarding: Build Flows Fast with Simple Integration and Smart Targeting  
 
